@@ -122,11 +122,6 @@ Planned additions to the repository:
 
 ---
 
-## License
-This project is licensed under the [MIT License](./LICENSE.md).
-
----
-
 ## Acknowledgments
 
 - Data Structures & Algorithm Playlist by [Bro Code](https://www.youtube.com/@BroCodez)
